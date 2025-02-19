@@ -82,13 +82,10 @@ Ensure you have the following installed:
 ### Some images of Cine Vault:
 - Home
 - ![image](https://github.com/user-attachments/assets/45d279fe-f7cc-4447-b53b-3cd2ed6bc0e5)
- 
 - Dashboard
 - ![image](https://github.com/user-attachments/assets/b2919588-3d9a-43ac-ae3e-6b8976397765)
-
 -  Clicking on a Movie
 - ![image](https://github.com/user-attachments/assets/81284ea1-b6e6-4c4c-b4c9-86b8bc4a4529)
-
 - Login and Register
 - ![image](https://github.com/user-attachments/assets/860727c4-07a4-4320-917b-696015800ce2)
 - ![image](https://github.com/user-attachments/assets/fff71d42-f2ed-4b5f-99f6-f3a56817f31e)
