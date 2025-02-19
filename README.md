@@ -78,3 +78,11 @@ Ensure you have the following installed:
 - `POST /api/favorites` - Add a movie to favorites
 - `DELETE /api/favorites/:id` - Remove a movie from favorites
 - `GET /api/favorites/:userId` - Fetch user's favorite movies
+
+### Some images of Cine Vault:
+- ![image](https://github.com/user-attachments/assets/b2919588-3d9a-43ac-ae3e-6b8976397765)
+- ![image](https://github.com/user-attachments/assets/81284ea1-b6e6-4c4c-b4c9-86b8bc4a4529)
+- ![image](https://github.com/user-attachments/assets/860727c4-07a4-4320-917b-696015800ce2)
+
+
+
