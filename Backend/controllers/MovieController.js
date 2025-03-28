@@ -2,7 +2,7 @@ import UserModel from "../models/UserModel.js";
 import HistoryModel from "../models/HistoryModel.js";
 import axios from "axios";
 
-const OMDB_API_KEY = "aa6e244a";
+const OMDB_API_KEY = "KEY";
 const OMDB_API_URL = "https://www.omdbapi.com/";
 
 export const fetchMovie = async (req, res) => {
